@@ -1,0 +1,6 @@
+name: RJCFirstJoinItem
+author: RJC367
+version: 1.0
+main: me.rjc367.RJCFirstJoinItem.Main
+description: Give players items on first join
+api-version: 1.14
